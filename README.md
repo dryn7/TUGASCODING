@@ -10,9 +10,9 @@
 + 3.Program menetukan zodiac
 + 4.program dengan menggunakan tipe data array
 
-+ ## 1. _Program Perulangan Sampai 100_
++ ### 1. _Program Perulangan Sampai 100_
 + program perulangan sampai 100 ini menampilkan output angka 1 sampai 9 dan dilanjutkan dengan nama diri hingga 100, pada pemrograman ini menggunakan tipe data for dan juga tipe data if else.
-+ ### 1.1 _Penjelasan Program Perulangan Sampai 100_
++ #### 1.1 _Penjelasan Program Perulangan Sampai 100_
 + package com.tugas.perulangan100; deklarasi paket (package) yang digunakan untuk mengelompokkan kelas-kelas dalam proyek Java, dalam hal ini, program ini berada dalam paket "com.tugas.perulangan100"
 
 + public class perulangan100 :  upaya untuk membuat sebuah kelas dalam bahasa pemrograman Java dengan nama "perulangan100."
@@ -33,9 +33,9 @@
 
 + Ketika program ini di run akan menghasilkan urutan angka dari 1 - 9 lalu di lanjutkan dengan nama diri sampai 100.
 
-+ ## 2. _Program bebas dengan menggunakan tipe data if else dalam perulangan while_
++ ### 2. _Program bebas dengan menggunakan tipe data if else dalam perulangan while_
 + Pada program if else dengan perulangan while kali ini saya membuat pemrograman menentukan angka ganjil dan genap sesuai dengan batas angka yang di inginkan dengan mengisi data batas bawah dan batas atas.
-+ ### 2.1 _Penjelasan Program bebas dengan menggunakan tipe data if else dalam perulangan while_
++ #### 2.1 _Penjelasan Program bebas dengan menggunakan tipe data if else dalam perulangan while_
 + package com.tugas.ifelsewhile; : deklarasi paket (package) yang digunakan untuk mengelompokkan kelas-kelas dalam proyek Java, dalam hal ini, program ini berada dalam paket "com.tugas.ifelsewhile".
 
 + import java.util.Scanner; : digunakan untuk mengimpor kelas Scanner dari pustaka Java java.util, yang memungkinkan untuk membaca masukan dari pengguna dalam program yang dibuat.
@@ -70,10 +70,10 @@ angka++; : meningkatkan nilai variabel angka sebesar satu. Digunakan dalam perul
 
 + Ketika program ini di run, program akan menghasilkan output pengisian data angka batas bawah dan batas atas, ketika sudah di isi maka data akan di proses dan menghasilkan urutan data dari batasan bawah hingga batasan atas dengan keterangan angka tersebut genap atau pun ganjil.
 
-+ ## _Program Menetukan Zodiac_
++ ### _Program Menetukan Zodiac_
 + Program menentukan zodiac ini merupakan program untuk mengetahui apa zodiac yang dimiliki oleh pengakses program, dengan menggunakan tipe data if else dan else if pengakses akan mengisi nama, tanggal, dan bulan kelahiran untuk menemukan apa zodiac yang dimilikinya.
   
-+ ### _Penjelasan Progam Menentukan Zodiac_
++ #### _Penjelasan Progam Menentukan Zodiac_
 + package com.tugas.zodiak; :  deklarasi paket (package) yang digunakan untuk mengelompokkan kelas-kelas dalam proyek Java, dalam hal ini, program ini berada dalam paket "com.tugas.zodiak".
 
 + import java.util.Scanner; : digunakan untuk mengimpor kelas Scanner dari pustaka Java java.util, yang memungkinkan untuk membaca masukan dari pengguna dalam program yang dibuat.
@@ -105,10 +105,10 @@ angka++; : meningkatkan nilai variabel angka sebesar satu. Digunakan dalam perul
 
 + Setelah selesai membuat program, ketika di run output akan meminta data nama, tanggal, dan bulan lahir, setelah di isi data dengan benar maka zodiac mu akan muncul.
 
-+ ## _Program Tipe Data Array_
++ ### _Program Tipe Data Array_
 + Pada pembuatan program menggunakan tipe data array kali ini saya membuat program yang menghasilkan hasil klasemen 5 besar Premiere League 2022/2023 dengan menggunakan String dan perulangan for.
 
-+ ### _Penjelasan Program Tipe Data Array_
++ #### _Penjelasan Program Tipe Data Array_
 + package com.tugas.dataArray; :  deklarasi paket (package) yang digunakan untuk mengelompokkan kelas-kelas dalam proyek Java, dalam hal ini, program ini berada dalam paket " com.tugas.dataArray".
 
 + public class dataArray { :  upaya untuk membuat sebuah kelas dalam bahasa pemrograman Java dengan nama "dataArray".
