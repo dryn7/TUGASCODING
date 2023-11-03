@@ -1,6 +1,6 @@
-package com.tugas.perulangan1000;
+package com.tugas.perulangan100;
 
-public class perulangan1000 {
+public class perulangan100 {
 
     public static void main(String[] args) {
 
