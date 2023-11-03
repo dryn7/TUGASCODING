@@ -35,7 +35,7 @@
 
 + ## 2. _Program bebas dengan menggunakan tipe data if else dalam perulangan while_
 + Pada program if else dengan perulangan while kali ini saya membuat pemrograman menentukan angka ganjil dan genap sesuai dengan batas angka yang di inginkan dengan mengisi data batas bawah dan batas atas.
-+ ### 2.1 _ Penjelasan Program bebas dengan menggunakan tipe data if else dalam perulangan while_
++ ### 2.1 _Penjelasan Program bebas dengan menggunakan tipe data if else dalam perulangan while_
 + package com.tugas.ifelsewhile; : deklarasi paket (package) yang digunakan untuk mengelompokkan kelas-kelas dalam proyek Java, dalam hal ini, program ini berada dalam paket "com.tugas.ifelsewhile".
 
 + import java.util.Scanner; : digunakan untuk mengimpor kelas Scanner dari pustaka Java java.util, yang memungkinkan untuk membaca masukan dari pengguna dalam program yang dibuat.
@@ -130,5 +130,9 @@ angka++; : meningkatkan nilai variabel angka sebesar satu. Digunakan dalam perul
 + Setelah pembuatan program selesai, ketika di run output akan menghasilkan judul "Klasemen Premiere League 2022/2023" dengan urutan team yang sudah di data dan di urutkan dari urutan 1 hingga 5.
 
 + ## _Daftar Pustaka_
++  [1] [Muhardian A. 2016. _BELAJAR JAVA : MENGGUNAKAN ARRAY UNTUK MENYIMPAN BANYAK HAL_. Retrieved November 1, 2023. https://www.petanikode.com/java-array/.]
++  [2] [Yustika G. 2023. _12 RASI BINTANG ZODIAK, ELEMEN, DAN KARAKTERISTIK NYA_. Retrieved November 1, 2023. https://www.orami.co.id/magazine/rasi-bintang-zodiak?page=all.]
++   [3] [Muhardian A. 2016. _BELAJAR JAVA : MEMAHAMI 3 BENTUK PERCABANGAN DALAM JAVA_. Retrieved November 1, 2023. https://www.petanikode.com/java-percabangan/.]
++   [4] [Muhadian A. 2016. _BELAJAR JAVA: MEMAHAMI 2 JENIS PERULANGAN DALAM JAVA_. Retrieved November 1, 2023. https://www.petanikode.com/java-perulangan/]
         
   
